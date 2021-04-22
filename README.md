@@ -20,7 +20,7 @@ git clone https://github.com/zubi-143/file2.git
 
 cd file2
 
-python2 zfilez.py
+python2 zjanu.py
 
 OWNER = ZUBAIR ZUBI
 
